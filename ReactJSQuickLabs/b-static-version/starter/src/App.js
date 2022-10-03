@@ -13,6 +13,7 @@ function App() {
     <div className="container">
       <div className="container">
         <Header />
+        I will put other UIs here.
         <Footer />
       </div>
     </div>
